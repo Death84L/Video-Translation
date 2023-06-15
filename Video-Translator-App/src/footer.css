@@ -1,0 +1,11 @@
+.mystyle{
+    margin-top: 20px;
+  padding: 20px;
+  background-color: black;
+
+ justify-content: center;
+}
+div li{
+    text-align: center;
+    letter-spacing: 1px;
+}

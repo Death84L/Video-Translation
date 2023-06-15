@@ -1,0 +1,23 @@
+.main{
+  background-color: #423F3E;
+  position: fixed;
+  float: right;
+  height: 100%;
+  width: 100%;
+  
+}
+label{
+   width:100vh;
+   border: dashed #171010 !important;
+    
+}
+.list{
+  text-align: left;
+}
+.block{
+  border-radius: 20px;
+}
+.b-1{
+  color: white ;
+  border-color: rgb(173, 177, 173);
+}
